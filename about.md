@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ERORR
+title: ERROR
 permalink: /RESULT/
 ---
 #이미지 집어넣기   
