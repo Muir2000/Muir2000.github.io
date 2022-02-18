@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: ERORR
+permalink: /RESULT/
 ---
+#이미지 집어넣기   
+![Alt text](/images/KakaoTalk_20220113_191205516.jpg)
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
